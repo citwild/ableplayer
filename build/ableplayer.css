@@ -1129,7 +1129,8 @@ button svg {
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'able' !important;
+  /* font-family: 'able' !important; */
+  font-family: 'able';
   speak: none;
   font-style: normal;
   font-weight: normal;
